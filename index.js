@@ -7,3 +7,7 @@ function get() {
 function getItme() {
     return 'hello';
 }
+
+function getItem() {
+    return 'hello2';
+}
